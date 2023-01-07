@@ -13,16 +13,6 @@
 
   
 
-   
-   
-
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "guilhermegercs15@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/guilhermeeg">
-      <img width="25" src="linkedin.svg">
-      </div>
       
       
    
