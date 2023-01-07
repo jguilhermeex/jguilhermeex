@@ -13,11 +13,7 @@
 </div>
 <div align="left">
   <a href="https://github.com/jguilhermeex">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jguilhermeex&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jguilhermeex&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jguilhermeex&count_private=true&include_all_commits=true&show_icons=true&theme=gradient&hide_border=false&show_owner=true"/>
 
   
 
