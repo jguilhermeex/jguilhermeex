@@ -10,6 +10,10 @@
  O objetivo deste perfil é compartilhar projetos realizados com a linguagem SQL e futuramente Python voltados a análise de dados.
 
 
+                                                                                                                                      
+
+
+
 
 
 
