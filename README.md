@@ -10,9 +10,8 @@
  O objetivo deste perfil é compartilhar projetos realizados com a linguagem SQL e futuramente Python voltados a análise de dados.
  Confira abaixo:
  
- - [Projeto 1 - Projeto de análise de dados em linguagem SQL - Dados da pandemia da Covid-19 - Clique Aqui](https://github.com/jguilhermeex/PortfolioSQL-01.git)
- - [Projeto 2 - Projeto de análise de dados - Análise de um E-commerce de venda de veículos - Clique Aqui](https://github.com/jguilhermeex/PortfolioSQL-02.git)
- - [Projeto 3 - Projeto de análise de perfil dos consumidores - Clique Aqui](https://github.com/jguilhermeex/PortfolioSQL-03.git)
+ - [Projeto 1 - Projeto de análise de dados - Análise de um E-commerce de venda de veículos - Clique Aqui](https://github.com/jguilhermeex/PortfolioSQL-02.git)
+ - [Projeto 2 - Projeto de análise de perfil dos consumidores - Clique Aqui](https://github.com/jguilhermeex/PortfolioSQL-03.git)
   
   
  
