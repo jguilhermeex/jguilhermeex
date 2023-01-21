@@ -19,13 +19,13 @@
  
   
 <div style="display: flex; justify-content: space-between;"> <br>
-  <img align="left"height="150" alt="coding-time" src="code.gif">
+  <img align="left"height="300" alt="coding-time" src="code.gif">
 
    
    
    
    
-
+![Snake animation](https://github.com/jguilhermeex/jguilhermeex/blob/output/github-contribution-grid-snake.svg)
 
       
 
