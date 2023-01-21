@@ -15,10 +15,8 @@
   
  
   
-</div>
-<div align="left">
-  <a href="https://github.com/jguilhermeex">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jguilhermeex&count_private=true&include_all_commits=true&show_icons=true&theme=light&hide_border=false&show_owner=true"/>
+![code](https://user-images.githubusercontent.com/120759992/213878134-fef7894c-ca36-4bfb-a7f6-e31189b7aaf5.gif)
+
    
    
    
