@@ -18,7 +18,8 @@
 
  
   
-![code](https://user-images.githubusercontent.com/120759992/213878134-fef7894c-ca36-4bfb-a7f6-e31189b7aaf5.gif)
+<div style="display: flex; justify-content: space-between;"> <br>
+  <img align="left"height="150" alt="coding-time" src="code.gif">
 
    
    
