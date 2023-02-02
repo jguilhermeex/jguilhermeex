@@ -2,8 +2,8 @@
 
 - 💕Um grande entusiasta por análise de dados
 - 🎓Graduando em Administração de Empresas
-- 🚀Estudando Big Data, Análise de dados e Data OPS
-- 💻Conhecimentos em: Microsoft Excel, MS Power BI, DAX, Linguagem M, Modelagem de dados, MySQL, SQL Server, PostgreSQL
+- 🚀Estudando SQL e Linguagem Python
+- 💻Conhecimentos em: Microsoft Excel, MS Power BI, DAX, Linguagem M, Modelagem de dados, SQL, Python e Pandas
 
 
  O objetivo deste perfil é compartilhar projetos realizados com a linguagem SQL e futuramente Python voltados a análise de dados.
