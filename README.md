@@ -17,7 +17,6 @@
  
 - [Projeto 1  - Projeto de análise exploratória - Netflix - Clique Aqui](https://github.com/jguilhermeex/Python_Pandas.git)
 
-&nbsp;
 
 ### Ferramentas Utilizadas
  <div>
