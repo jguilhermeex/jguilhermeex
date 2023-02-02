@@ -6,7 +6,7 @@
 - 💻Conhecimentos em: Microsoft Excel, MS Power BI, DAX, Linguagem M, Modelagem de dados, SQL, Python e Pandas
 
 
- O objetivo deste perfil é compartilhar projetos realizados com a linguagem SQL e futuramente Python voltados a análise de dados.
+ O objetivo deste perfil é compartilhar projetos realizados com a linguagem SQL e Python voltados a análise de dados.
  Confira abaixo:
  
  ### Projetos em Linguagem SQL 💾                                                                                                                                   
