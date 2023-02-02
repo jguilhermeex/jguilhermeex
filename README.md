@@ -16,7 +16,7 @@
 
  ### Projetos em Linguagem Python 🐍
  
- [Projeto 1  - Projeto de análise Exploratória - Netflix - Clique Aqui](https://github.com/jguilhermeex/Netflix.ipynb)
+- [Projeto 1  - Projeto de análise Exploratória - Netflix - Clique Aqui](https://github.com/jguilhermeex/Netflix.ipynb)
 
 
 
