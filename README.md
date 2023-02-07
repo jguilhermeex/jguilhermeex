@@ -6,7 +6,7 @@
 - 🚀Estudando SQL e Linguagem Python
 - 💻Conhecimentos em: Microsoft Excel, MS Power BI, DAX, Linguagem M, Modelagem de dados, SQL, Python e Pandas
 
-
+<br />
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 </div>
 
-
+<br />
  O objetivo deste perfil é compartilhar projetos realizados com a linguagem SQL e Python voltados a análise de dados.
  Confira abaixo:
  
