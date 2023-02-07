@@ -8,11 +8,11 @@
 
 
 
-
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=jguilhermeex&style=for-the-badge)
 
-
+</div>
 
 
  O objetivo deste perfil é compartilhar projetos realizados com a linguagem SQL e Python voltados a análise de dados.
