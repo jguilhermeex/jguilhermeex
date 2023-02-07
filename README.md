@@ -1,12 +1,16 @@
 # Olá, eu sou o José Guilherme!!!
 
-![](https://komarev.com/ghpvc/?username=jguilhermeex&style=for-the-badge)
 
 - 💕Um grande entusiasta por análise de dados
 - 🎓Graduando em Administração de Empresas
 - 🚀Estudando SQL e Linguagem Python
 - 💻Conhecimentos em: Microsoft Excel, MS Power BI, DAX, Linguagem M, Modelagem de dados, SQL, Python e Pandas
 
+
+
+
+
+![](https://komarev.com/ghpvc/?username=jguilhermeex&style=for-the-badge)
 
 
 
