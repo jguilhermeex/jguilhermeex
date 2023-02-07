@@ -6,6 +6,9 @@
 - 💻Conhecimentos em: Microsoft Excel, MS Power BI, DAX, Linguagem M, Modelagem de dados, SQL, Python e Pandas
 
 
+![](https://komarev.com/ghpvc/?username=jguilhermeex&style=for-the-badge)
+
+
  O objetivo deste perfil é compartilhar projetos realizados com a linguagem SQL e Python voltados a análise de dados.
  Confira abaixo:
  
