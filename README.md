@@ -1,7 +1,7 @@
 # Olá, eu sou o José Guilherme!!!
 
 
-- 💕Um grande entusiasta em transformar dados em valor
+- 💕Um grande entusiasta em transformar dados em valor!
 - 🎓Graduando em Administração de Empresas
 - 🚀Estudando SQL e Linguagem Python
 - 💻Conhecimentos em: Microsoft Excel, MS Power BI, DAX, Linguagem M, Modelagem de dados, SQL, Python e Pandas
