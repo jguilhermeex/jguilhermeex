@@ -16,7 +16,7 @@
 </div>
 
 <br />
- O objetivo deste perfil é compartilhar projetos realizados com a linguagem SQL e Python voltados a análise de dados.
+ O objetivo deste perfil é compartilhar projetos realizados em Power BI, linguagem SQL e Python voltados à análise de dados.
  Confira abaixo:
  
  ### Projetos em Linguagem SQL 💾                                                                                                                                   
