@@ -30,11 +30,11 @@
 
 ### Ferramentas Utilizadas
  <div>
-<img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/excel.png"width="50" height=50"/>
-<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"width="50" height=50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height=50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height=50 "/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="50" height=50"/>
+<img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/excel.png"width="40" height=40"/>
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"width="40" height=40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height=40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height=40 "/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" height=40"/>
 
 
  
