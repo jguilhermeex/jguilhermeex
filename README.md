@@ -21,10 +21,8 @@
  <br />
  
 **OBSERVAÇÃO: A visualização dos projetos fica melhor pelo computador, evitando distorções das imagens e dos vídeos.**
-
  <br />
  <br />
- 
 **Confira abaixo:**
 
  ### Projetos em Power BI ⚡
