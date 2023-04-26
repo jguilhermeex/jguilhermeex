@@ -21,7 +21,7 @@
 <br />
 
  ### Projetos em Power BI 📊
- - [Projeto 1 - Case Netflix](https://github.com/jguilhermeex/powerbi.git)
+ - [Projeto 1 - Projeto de Análise de Dados - Case Netflix](https://github.com/jguilhermeex/powerbi.git)
  
  ### Projetos em Linguagem SQL 💾                                                                                                                                   
  - [Projeto 1 - Projeto de análise de dados - Análise de um E-commerce de venda de veículos - Clique Aqui](https://github.com/jguilhermeex/PortfolioSQL-02.git)
@@ -29,7 +29,7 @@
 
  ### Projetos em Linguagem Python 🐍
  
-- [Projeto 1  - Projeto de análise exploratória - Netflix - Clique Aqui](https://github.com/jguilhermeex/Python_Pandas.git)
+- [Projeto 1  - Projeto de Análise Exploratória - Case Netflix com Python - Clique Aqui](https://github.com/jguilhermeex/Python_Pandas.git)
 
 
 ### Ferramentas Utilizadas
