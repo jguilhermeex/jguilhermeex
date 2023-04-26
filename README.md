@@ -30,6 +30,7 @@
 
 ### Ferramentas Utilizadas
  <div>
+<img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/excel.png"width="50" height=50"/>
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"width="50" height=50"/>
 <img src="https://user-images.githubusercontent.com/92809543/147508656-c98f7a17-504e-40f2-b710-c5031c0198fd.png" width="50" height=50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height=50 "/>
