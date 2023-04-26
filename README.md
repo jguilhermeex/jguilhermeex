@@ -34,7 +34,7 @@
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"width="50" height=50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height=50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height=50 "/>
-<img src="https://user-images.githubusercontent.com/92809543/147506791-fa632e59-58c0-423f-bfab-90184b5528ce.png" width="50" height=50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="50" height=50"/>
 
 
  
