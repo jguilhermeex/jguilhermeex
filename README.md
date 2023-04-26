@@ -24,8 +24,8 @@
  - [Projeto 1 - Projeto de Análise de Dados - Case Netflix - Clique Aqui](https://github.com/jguilhermeex/powerbi.git)
  
  ### Projetos em Linguagem SQL 💾                                                                                                                                   
- - [Projeto 1 - Projeto de análise de dados - Análise de um E-commerce de venda de veículos - Clique Aqui](https://github.com/jguilhermeex/PortfolioSQL-02.git)
- - [Projeto 2 - Projeto de análise de perfil dos consumidores - Clique Aqui](https://github.com/jguilhermeex/PortfolioSQL-03.git)
+ - [Projeto 1 - Projeto de Análise de Dados - Análise de um E-commerce de Venda de Veículos - Clique Aqui](https://github.com/jguilhermeex/PortfolioSQL-02.git)
+ - [Projeto 2 - Projeto de Análise de Dados - Perfil dos Consumidores - Clique Aqui](https://github.com/jguilhermeex/PortfolioSQL-03.git)
 
  ### Projetos em Linguagem Python 🐍
  
