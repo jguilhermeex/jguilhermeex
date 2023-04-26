@@ -20,7 +20,7 @@
  Confira abaixo:
 <br />
 
- ### Projetos em Power BI 📌
+ ### Projetos em Power BI ⚡
  - [Projeto 1 - Projeto de Análise de Dados - Case Netflix - Clique Aqui](https://github.com/jguilhermeex/powerbi.git)
  
  ### Projetos em Linguagem SQL 💾                                                                                                                                   
