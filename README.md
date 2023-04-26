@@ -14,11 +14,9 @@
 ![](https://komarev.com/ghpvc/?username=jguilhermeex&style=for-the-badge)
 
 </div>
-
 <br />
 
  **O objetivo deste perfil é compartilhar projetos realizados em Power BI, linguagem SQL e Python, voltados à análise de dados.**
- <br />
  <br />
 
 **OBSERVAÇÃO: A visualização dos projetos fica melhor pelo computador, evitando distorções das imagens e dos vídeos.**
