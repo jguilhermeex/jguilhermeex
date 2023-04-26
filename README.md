@@ -17,8 +17,13 @@
 
 <br />
  O objetivo deste perfil é compartilhar projetos realizados em Power BI, linguagem SQL e Python, voltados à análise de dados.
- Confira abaixo:
+Confira abaixo:
+ 
+ <br />
+ 
+**OBS: A visualização dos projetos fica melhor pelo computador, evitando distorções das imagens e dos vídeos.**
 <br />
+
 
  ### Projetos em Power BI ⚡
  - [Projeto 1 - Projeto de Análise de Dados - Case Netflix - Clique Aqui](https://github.com/jguilhermeex/powerbi.git)
