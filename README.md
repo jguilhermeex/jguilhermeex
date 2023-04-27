@@ -19,7 +19,7 @@
  **O objetivo deste perfil é compartilhar projetos realizados em Power BI, linguagem SQL e Python, voltados à análise de dados.**
  <br />
 
-**OBSERVAÇÃO: A visualização dos projetos fica melhor pelo computador, evitando distorções das imagens e dos vídeos.**
+**Observação: A visualização dos projetos fica melhor pelo computador, evitando distorções das imagens e dos vídeos.**
  <br />
  <br />
 **Confira abaixo:**
