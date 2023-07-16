@@ -3,7 +3,7 @@
 
 - 💕Um grande entusiasta em transformar dados em valor!
 - 🎓Graduando em Administração de Empresas
-- 🚀Estudando Tableau
+- 🚀Estudando Tableau!
 - 💻Conhecimentos em: Microsoft Excel, MS Power BI, DAX, Linguagem M, Modelagem de dados, Tableau, SQL, Python e Pandas
 
 <br />
