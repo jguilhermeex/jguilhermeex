@@ -1,10 +1,10 @@
 # Olá, eu sou o José Guilherme!!!
 
 
-- 💕Um grande entusiasta em transformar dados em valor!
-- 🎓Graduando em Administração de Empresas
-- 🚀Estudando Tableau!
-- 💻Conhecimentos em: Microsoft Excel, MS Power BI, DAX, Linguagem M, Modelagem de dados, Tableau, SQL, Python e Pandas
+- 🎯 Transformo dados em valor!
+- 🎓 Graduado em Administração de Empresas
+- 🚀 Estudando Tableau, estatística e SPSS!
+- 💻 Conhecimentos em: Microsoft Excel, MS Power BI, DAX, Linguagem M, Modelagem de dados, Tableau, SQL, Python e Pandas
 
 <br />
 
@@ -40,7 +40,7 @@
 <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/excel.png"width="40" height=40"/>
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"width="40" height=40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height=40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height=40 "/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" wihttps://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svgdth="40" height=40 "/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" height=40"/>
 
 
