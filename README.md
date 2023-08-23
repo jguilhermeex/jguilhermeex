@@ -3,7 +3,7 @@
 
 - 🎯 Transformo dados em valor!
 - 🎓 Graduado em Administração de Empresas
-- 🚀 Estudando Tableau, estatística e SPSS!
+- 🚀 Estudando Tableau, Estatística e SPSS!
 - 💻 Conhecimentos em: Microsoft Excel, MS Power BI, DAX, Linguagem M, Modelagem de dados, Tableau, SQL, Python e Pandas
 
 <br />
