@@ -31,8 +31,6 @@
  - [Projeto 2 - Projeto de Análise de Dados - Perfil dos Consumidores - Clique Aqui](https://github.com/jguilhermeex/PortfolioSQL-03.git)
 
  ### Projetos em Linguagem Python 🐍
- 
-- [Projeto 1  - Projeto de Análise Exploratória - Case Netflix com Python - Clique Aqui](https://github.com/jguilhermeex/Python_Pandas.git)
 
 
 ### Ferramentas Utilizadas
@@ -40,8 +38,6 @@
 <img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/excel.png"width="40" height=40"/>
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"width="40" height=40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height=40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" wihttps://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svgdth="40" height=40 "/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" height=40"/>
 
 
  
