@@ -3,9 +3,8 @@
 
 - 🎯 Transformo dados em valor!
 - 🎓 Graduado em Administração de Empresas
-- 🚀 Estudando Tableau, Estatística e SPSS!
-- 💻 Conhecimentos em: Microsoft Excel, MS Power BI, DAX, Linguagem M, Modelagem de dados, Tableau, SQL, Python e Pandas
-
+- 🥇 Especialista em Power BI
+- 💻 Conhecimentos em: Microsoft Excel, MS Power BI, Power Query, Modelagem de dados, DAX, Tableau e SQL
 <br />
 
 <div align= 'center'>
