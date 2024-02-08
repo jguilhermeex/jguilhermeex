@@ -29,8 +29,6 @@
  - [Projeto 1 - Projeto de Análise de Dados - Análise de um E-commerce de Venda de Veículos - Clique Aqui](https://github.com/jguilhermeex/PortfolioSQL-02.git)
  - [Projeto 2 - Projeto de Análise de Dados - Perfil dos Consumidores - Clique Aqui](https://github.com/jguilhermeex/PortfolioSQL-03.git)
 
- ### Projetos em Linguagem Python 🐍
-
 
 ### Ferramentas Utilizadas
  <div>
